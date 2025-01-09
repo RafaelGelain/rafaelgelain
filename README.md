@@ -1,6 +1,5 @@
 <h1>Olá! 👋</h1>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-gelain/)](https://www.linkedin.com/in/rafael-gelain/)
-
 [![Gmail Badge](https://img.shields.io/badge/-contato@rafael.augustogelain2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@rafael.augustogelain2@gmail.com)](mailto:contato@rafael.augustogelain2@gmail.com)
 
 ## Meu nome é Rafael Gelain
@@ -64,7 +63,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<br>
 <div align="left">
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGelain&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 </div>
