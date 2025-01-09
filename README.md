@@ -1,6 +1,7 @@
 <h1>Olá! 👋</h1>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-gelain/)](https://www.linkedin.com/in/rafael-gelain/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@rafael.augustogelain2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@rafael.augustogelain2@gmail.com)](mailto:contato@rafael.augustogelain2@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-gelain/-5958a61a9/)](https://www.linkedin.com/in/rafael-gelain/-5958a61a9/)
+[![Gmail Badge](https://img.shields.io/badge/-rafael.augustogelain2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@rafael.augustogelain2@gmail.com)](mailto:contato@rafael.augustogelain2@gmail.com)
 
 ## Meu nome é Rafael Gelain
 - Profissional em formação em Análise e Desenvolvimento de Sistemas pela UPF
